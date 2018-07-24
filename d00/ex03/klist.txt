@@ -1,0 +1,5 @@
+Credentials cache: API:0F72EAB4-2AC7-492D-A75C-7828C5BC6D57
+        Principal: yvikulov@UNIT.UA
+
+  Issued                Expires               Principal
+Jul  9 13:30:03 2018  Jul  9 23:30:03 2018  krbtgt/UNIT.UA@UNIT.UA

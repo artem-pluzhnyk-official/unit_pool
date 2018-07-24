@@ -1,0 +1,3 @@
+dn:uid=apluzhni,ou=july,ou=2018,ou=people,dc=unit,dc=uachangetype: modify
+add: mobile
+mobile: 0665135070
